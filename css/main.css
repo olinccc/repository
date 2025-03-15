@@ -67,9 +67,9 @@ a {
     color: #ff0000;
     font-weight: 600;
     text-decoration: none;
-    padding: 0.25em .5em;
+    padding: 10px 20px 30px 40px;
     text-transform: uppercase;
-    min-width: 42px;
+    min-width: 100px;
 }
 
 a.active,
